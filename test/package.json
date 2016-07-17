@@ -1,0 +1,9 @@
+{
+  "name": "nightmare-practice",
+  "version": "0.0.1",
+  "description": "Practicing testing/automation with nightmare",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "nightmare": "^2.5.3"
+  }
+}
