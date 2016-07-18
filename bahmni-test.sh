@@ -1,0 +1,1 @@
+env env_name=$1 username=$2 password=$3 location=$4 mocha ./test/bahmni_with_mocha.js

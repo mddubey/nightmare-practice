@@ -1,4 +1,11 @@
 {
-	"local":{"show": true, "width":1024, "height":768},
-	"qa":{}
+	"local": {
+		"init": {
+			"show": true,
+			"width": 1280,
+			"height": 800
+		},
+		"waitTime": 4000
+	},
+	"qa": {}
 }
